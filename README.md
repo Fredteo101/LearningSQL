@@ -1,2 +1,2 @@
-# LearningSQL
-A space to remember to learn
+# Learning SQL from Scratch
+###### A space to remember to learn, unlearn & relearn. 
